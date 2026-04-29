@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF2N24wOTNxcWd6aTl2MW5sOTAwZDk4cGM1eHdjOWV5aWFmejV4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZRMo8QM6M7lM4/giphy.gif"  />
+  <img height="300" src="https://media1.tenor.com/m/CTWCR6wvGR4AAAAd/dance-cs-go.gif"  />
 </div>
 
 ###
