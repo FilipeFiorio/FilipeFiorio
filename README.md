@@ -10,7 +10,7 @@
 ## 💻 About Me
 
 - 🎓 Computer Science student  
-- 💡 Interested programming and technology  
+- 💡 Interested in programming and technology  
 - 🚀 Always learning something new  
 
 ---
