@@ -11,7 +11,6 @@
 
 - 🎓 Computer Science student  
 - 💡 Interested in programming and technology  
-- 🚀 Always learning something new  
 
 ---
 
