@@ -37,9 +37,3 @@
 </a>
 
 </div>
-
----
-
-<div align="center">
-  ⭐ From <b>FilipeFiorio</b>
-</div>
